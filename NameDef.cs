@@ -4,18 +4,15 @@ using UnityEngine;
 
 using UnityEngine.UI;
 
-public class BgDef : MonoBehaviour
+public class NameDef : MonoBehaviour
 {
-    public Image BgA;
-    // Start is called before the first frame update
+    public Text name;
+
     void Start()
     {
-        
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
     }
 }
