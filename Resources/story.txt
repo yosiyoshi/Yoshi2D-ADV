@@ -1,4 +1,4 @@
-Hello World!
-This is a Story Tellor system.
-Succeed in loading messages from txt file on Resources file!
+Hello World.
+This is a Story Teller system.
+Succeed in loading messages from txt file on Resources file.
 Thank you.
