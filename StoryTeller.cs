@@ -29,7 +29,7 @@ public class StoryTeller : MonoBehaviour
         textAsset2 = Resources.Load("name", typeof(TextAsset)) as TextAsset;
         TextAsset textAsset3 = new TextAsset();
         textAsset3 = Resources.Load("image", typeof(TextAsset)) as TextAsset;
-        texts = textAsset.text.Split('\n');
+        texts = textAsset.text.Split('\\');
         names = textAsset2.text.Split('\n');
 //      images = textAsset3.text.Split('\n');
 //      filename = images[lineNum];
