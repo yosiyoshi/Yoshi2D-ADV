@@ -1,8 +1,8 @@
 Hello World.
 Welcome to the sample scene.
-\\
+\
 This is a Story Teller system.
-\\
+\
 Succeed in loading messages from txt file on Resources file.
-\\
+\
 Thank you.
